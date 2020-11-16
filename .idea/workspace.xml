@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3db76267-64e4-45a6-9d5e-0c6bfb54aa6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/actividades.html" beforeDir="false" afterPath="$PROJECT_DIR$/actividades.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentos/ejemploGuia-2pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documentos/guia-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentos/guia-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documentos/ejemplo_2.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jfDHwK5R86Vw8KeyqImWaA2IGS" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -83,7 +84,8 @@
       <workItem from="1605300304734" duration="2688000" />
       <workItem from="1605373699318" duration="6979000" />
       <workItem from="1605383042038" duration="26017000" />
-      <workItem from="1605465194421" duration="14091000" />
+      <workItem from="1605465194421" duration="14268000" />
+      <workItem from="1605485383589" duration="362000" />
     </task>
     <servers />
   </component>
@@ -100,6 +102,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
